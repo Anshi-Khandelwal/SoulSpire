@@ -1,6 +1,8 @@
 # 🌟 SoulSpire – Find Your Inspiration
 
 SoulSpire is a beautifully designed, Figma-powered reading inspiration app built using [V0.dev](https://v0.dev) and React. It features carousel-based book browsing, inspirational quotes, and a clean, mobile-friendly UI generated from design to code with minimal manual effort.
+
+
 But first — what are these tools?
 V0 is an AI-powered tool by Vercel that turns your design or prompt into real, working frontend code using React and Tailwind CSS.
 Vercel is a frontend cloud platform that lets you host, deploy, and manage modern web apps — especially React apps using frameworks like Next.js.
